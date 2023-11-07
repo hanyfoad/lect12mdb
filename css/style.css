@@ -1,0 +1,32 @@
+
+
+.icons , .demo{
+    background-color: red;
+    color: white;
+    width: 50%;
+    margin: auto;
+    padding: 20px;
+    font-family: 'Bebas Neue', sans-serif;
+
+}
+.icons{
+margin: 20px auto;
+     background-color: blue;
+     padding: 10px;
+     border-radius: 5px;
+     font-size: 40px;
+}
+.demo{
+    background-color: blue;
+    color: white;
+    margin:  20px auto;
+}
+.content{
+    margin: auto;
+    width: 50%;
+    background-color: blue;
+    color: white;
+    padding: 20px;
+    font-family: 'Kenia', sans-serif;
+
+}
